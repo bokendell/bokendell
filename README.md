@@ -41,7 +41,7 @@ I'm a Full Stack Engineer passionate about backend development and building scal
 <!-- ## GitHub Stats -->
 
 <!-- ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokendell&show_icons=true&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokendell&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokendell&layout=compact&theme=github_dark)
 
 ## Projects
 
