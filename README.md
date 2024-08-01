@@ -57,7 +57,7 @@ I'm a Full Stack Engineer passionate about backend development and building scal
 * Implemented Deepgram and OpenAI API for accurate transcription and summarization.
 * Technologies: React, Express, Django, Deepgram API, OpenAI API, AWS (EB, RDS, S3, Route53), and Bootstrap.
 
-### <a href="https://chaind.us"><img src="./chaind-title.png" alt="SimpleNotes" width="200" /></a>
+### <a href="https://chaind.us"><img src="./chaind-title.png" alt="chAind" width="200" /></a>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
