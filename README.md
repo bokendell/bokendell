@@ -45,7 +45,7 @@ I'm a Full Stack Engineer passionate about backend development and building scal
 
 ## Projects
 
-### [![SimpleNotes](./simple-notes-title.png)](https://simplenotes.us)
+### <a href="https://simplenotes.us"><img src="./simple-notes-title.png" alt="SimpleNotes" width="200" /></a>
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -57,7 +57,7 @@ I'm a Full Stack Engineer passionate about backend development and building scal
 * Implemented Deepgram and OpenAI API for accurate transcription and summarization.
 * Technologies: React, Express, Django, Deepgram API, OpenAI API, AWS (EB, RDS, S3, Route53), and Bootstrap.
 
-### [![chaInd](./chAind-title.png)](https://chaind.us)
+### <a href="https://chaind.us"><img src="./chaind-title.png" alt="SimpleNotes" width="200" /></a>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
@@ -76,14 +76,3 @@ I'm a Full Stack Engineer passionate about backend development and building scal
 * Integrated Prisma for efficient database management and seamless data retrieval.
 * Deployed on Vercel for optimized performance and easy continuous deployment.
 * Utilized Tailwind CSS for responsive and modern design.
-
-
-## GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bokendell&theme=darkhub)
-
-## My Contributions
-
-![snake gif](https://github.com/bokendell/bokendell/blob/output/github-contribution-grid-snake.svg)
-
----
