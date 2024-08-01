@@ -9,11 +9,10 @@
 I'm a Full Stack Engineer passionate about backend development and building scalable systems. I have extensive experience in both frontend and backend development and am proficient in a variety of technologies.
 
 - 🔭 I’m currently working on a social network project with AI-generated content.
-- 🌱 I’m currently learning advanced AWS services and Kubernetes.
+- 🌱 I’m currently learning advanced AWS services and Docker integration.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about backend development, API integration, and cloud services.
 - 📫 How to reach me: aaronkendell@gmail.com
-- ⚡ Fun fact: I love hiking and exploring new places.
 
 ## Technologies & Tools
 
@@ -29,8 +28,8 @@ I'm a Full Stack Engineer passionate about backend development and building scal
 
 ## GitHub Stats
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokendell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokendell&layout=compact&theme=radical)
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokendell&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokendell&layout=compact&theme=dark)
 
 ## Projects
 
@@ -50,14 +49,9 @@ I'm a Full Stack Engineer passionate about backend development and building scal
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aaronkendell)
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=web&logoColor=white)](https://bokendell.me)
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bokendell&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=bokendell&theme=darkhub)
 
 ## My Contributions
 
